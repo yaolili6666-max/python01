@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Claude Code local-only settings
+.claude/settings.local.json
